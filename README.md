@@ -4,7 +4,7 @@
 
 This is a Bukkit plugin, written in Java, that can execute OpenRealms plugins that are written in JavaScript.
 
-This project implements a JavaScript runtime for running OpenRealms plugins on a Minecraft server. If you're just trying to build a Minecraft plugin using JavaScript, check out [github.com/customrealms/core](https://github.com/customrealms/core).
+This project implements a JavaScript runtime for running OpenRealms plugins on a Minecraft server. If you're just trying to build a Minecraft plugin using JavaScript, check out [github.com/projopenrealms/core](https://github.com/projopenrealms/core).
 
 ## How it works
 
